@@ -1,5 +1,4 @@
 # Vagrant LAMP Stack
-====================
 
 LAMP Stack using Vagrant environment which enables you to test your web app but don't want to affect your current Apache / MySQL / PHP system.
 
